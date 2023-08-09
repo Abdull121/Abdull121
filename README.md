@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **abdullahimran8875@gmail.com**
 
-- 📄 Know about my experiences Resume [https://drive.google.com/uc?export=download&id=1oPM0ON7uqoaN8AXX_pCE_qTuZdussx7W](https://drive.google.com/uc?export=download&id=1oPM0ON7uqoaN8AXX_pCE_qTuZdussx7W)
+- 📄 Know about my experiences (Resume) https://shorturl.at/dmBL1
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
