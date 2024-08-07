@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Javascript,Reactjs**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at  [https://github.com/Abdull121](https://github.com/Abdull121)
 
