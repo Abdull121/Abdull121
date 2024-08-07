@@ -4,11 +4,12 @@
 
 - 🌱 I’m currently learning **Javascript,Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdull121](https://github.com/Abdull121)
+- 👨‍💻 All of my projects are available at  [https://github.com/Abdull121](https://github.com/Abdull121)
 
 - 📫 How to reach me **abdullahimran8875@gmail.com**
 
-- 📄 Know about my experiences (Resume) https://drive.google.com/uc?export=download&id=19VCI7x-iHjhKANOe7f305ZPiClfKYeTX
+- 📄 Know about my experiences [My Resume](https://drive.google.com/uc?export=download&id=19VCI7x-iHjhKANOe7f305ZPiClfKYeTX)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
