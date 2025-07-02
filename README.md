@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Full Stack + Cloud & Devops**
 
 - 👨‍💻 All of my projects are available at  [https://github.com/Abdull121](https://github.com/Abdull121)
 
