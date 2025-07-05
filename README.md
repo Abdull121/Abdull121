@@ -2,13 +2,12 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Full Stack + Cloud & Devops**
 
 - 👨‍💻 All of my projects are available at  [https://github.com/Abdull121](https://github.com/Abdull121)
 
 - 📫 How to reach me **abdullahimran8875@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/uc?export=download&id=19VCI7x-iHjhKANOe7f305ZPiClfKYeTX)
+- 📄 Know about my experiences [My Resume])
  
 
 <h3 align="left">Connect with me:</h3>
