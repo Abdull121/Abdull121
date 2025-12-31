@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 
-- 👨‍💻 All of my projects are available at  [https://github.com/Abdull121](https://github.com/Abdull121)
+- 👨‍💻 All of my projects are available at  [https://github.com/Abdull121](https://abdullahdev.engineer)
 
 - 📫 How to reach me **abdullahimran8875@gmail.com**
 
